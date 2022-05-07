@@ -1,6 +1,6 @@
 # firefoxDocker
 Run a firefox browser in a Docker Containner
 
-##Use
+##Use  
 chmod +x newBrowser.sh  
 sudo ./newBrowser.sh
